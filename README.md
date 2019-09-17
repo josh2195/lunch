@@ -18,4 +18,4 @@ The main goal of this program is to make lunch decisions easier when choosing be
 - Allow users to create accounts
 - Have the option to save favorites to accounts
 - Make the option to delete choices if the user no longer wants to keep a choice
-- Be ableto use Google Maps to see what is around the user and make a decision based on what is near the user
+- Be able to use Google Maps to see what is around the user and make a decision based on what is near the user
