@@ -11,7 +11,7 @@ The main goal of this program is to make lunch decisions easier when choosing be
 - Open your desired internet browser
 - Navigate to the webiste
 - Input your lunch options
-- Click the "Choose My Lunch!" button
+- Click the "Get My Choice!" button
 - Enjoy your lunch!
 
 ## Future Development
